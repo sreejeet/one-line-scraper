@@ -9,7 +9,7 @@ I like complex text processing and this is a stepping stone. Plus, it's cool to 
 of linux.
 
 <h2>What programs are used here?</h2>
-<p><strong>curl</strong> and <strong>gawk</strong>. Thats all!</p>
+<p><strong>curl</strong> and <strong>awk</strong>. Thats all!</p>
 
 <h2>How can this be made better?</h2>
 Adding exception handling (blocking due to too many requests, etc). Adding it as a cron job. Appending to existing data. Removing anything older than the last n number of lines. Removing duplicates wihout changing order (sort-u changes order).
